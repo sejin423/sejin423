@@ -1,6 +1,6 @@
 Hello world! I'm Sejin👋
 
-I've used this Techs at least once
+Programming Languages
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 <!--
