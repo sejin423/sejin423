@@ -2,7 +2,7 @@
 
 # Hello Everyone! Thanks to come my github :)
 
-## Communication
+## :speech_balloon: Communication
 [![Kakao Badge](https://img.shields.io/badge/-asj0423@kakao.com-FFCD00?style=flat-square&logo=Kakao&logoColor=black&link=mailto:asj0423@kakao.com)](mailto:asj0423@kakao.com)
 
 ## 😄 Programming Languages
