@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Ahn SeJin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome&fontSize=90&animation=twinkling" />
 
 # Hello Everyone! Thanks to come my github :)
 
