@@ -1,5 +1,7 @@
-### Hi there 👋
+Hello world! I'm Sejin👋
 
+I've used this Techs at least once
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **sejin423/sejin423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
