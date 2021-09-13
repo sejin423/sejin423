@@ -27,8 +27,8 @@
 
 
 # :bookmark_tabs:Participated in Challenges
-- 2022 KAKAO BLIND RECRUITMENT (2021.09.11)
-- JetBrains x Programmers Monthly Code Challenge Season 3 
+- 2022 KAKAO BLIND RECRUITMENT
+- JETBRAINS X PROGRAMMERS MONTHLY CODE CHALLENGE SEASON 3 
 
 
 #
